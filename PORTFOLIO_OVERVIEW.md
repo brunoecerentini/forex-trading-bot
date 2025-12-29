@@ -257,10 +257,10 @@ Extensive README, usage guides, security docs, and inline comments make it maint
 
 ## Contact & Links
 
-- **GitHub Repository**: [github.com/yourusername/forex-trading-bot]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
-- **Email**: [your.email@example.com]
-- **Portfolio Website**: [yourwebsite.com]
+- **GitHub Repository**: github.com/brunoecerentini/forex-trading-bot
+- **LinkedIn**: https://www.linkedin.com/in/bruno-cerentini
+- **Email**: brunocerentini@hotmail.com
+- **Portfolio Website**: github.com/brunoecerentini
 
 ## Conclusion
 
